@@ -1,0 +1,18 @@
+.mb-3.pass {
+    position: relative;
+  }
+  
+  #password {
+    padding-right: 35px; /* Add padding to accommodate the eye icon */
+  }
+  
+  #togglePassword {
+    position: absolute;
+    top: 72%; /* Adjust the vertical position as needed */
+    right: 5px; /* Adjust the horizontal position as needed */
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    z-index: 2;
+  }
+  
